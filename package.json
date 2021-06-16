@@ -1,7 +1,7 @@
 {
-  "name": "03-webpack-inicial",
+  "name": "js-todo-list",
   "version": "1.0.0",
-  "description": "webpack template ",
+  "description": "Proyecto TODO List realizado desde el curso de udemy de \"JavaScript Moderno: Guía para dominar el lenguaje\" de Fernando Herrera (https://www.udemy.com/course/javascript-fernando-herrera) ",
   "main": "index.js",
   "scripts": {
     "start": "webpack server --config webpack.config.js --open --port=3000",
@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/FidelGB/webpack-template.git"
+    "url": "git+https://github.com/FidelGB/js-todo-list.git"
   },
   "author": "Fidel GB",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/FidelGB/webpack-template/issues"
+    "url": "https://github.com/FidelGB/js-todo-list/issues"
   },
-  "homepage": "https://github.com/FidelGB/webpack-template#readme",
+  "homepage": "https://github.com/FidelGB/js-todo-list#readme",
   "devDependencies": {
     "@babel/core": "^7.14.5",
     "@babel/preset-env": "^7.14.5",
